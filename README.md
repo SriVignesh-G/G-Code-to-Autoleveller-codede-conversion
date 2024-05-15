@@ -1,4 +1,6 @@
 # G-Code-to-Autoleveller-codede-conversion
+## Name: Sri Vignesh G
+## Reg No: 212223040204
 # Aim
 To convert the G-Code into Auto leveler Code using Autoleveller software.
 # Software Required
@@ -44,16 +46,25 @@ Implementing PCB AutoLEVLER involves installing the software on a computer conne
 Overall, PCB AutoLEVLER plays a vital role in ensuring the accuracy, consistency, and efficiency of PCB manufacturing processes, particularly in environments where precise milling or engraving is essential for high-quality PCBs.
 # Auto leveller Code
 ### Engraving Code
+![Screenshot 2024-05-16 000358](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/be8cb65c-96b4-42dd-899c-2e83a0ed9add)
+
+![Screenshot 2024-05-16 000502](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/7f934bd1-4c7a-453a-bf18-cd168a98d0fe)
+
+![Screenshot 2024-05-16 000527](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/d47a69ec-3928-4d1b-a9ac-52f0f9cfe0bd)
 
 
 
-### Drill Code
+### Drill_0.8 Code
+![Screenshot 2024-05-16 000706](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/2db36240-fa76-4d34-b00a-6cefca548bca)
 
+### Drill_1 Code
+![Screenshot 2024-05-16 000756](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/e8ef022f-5445-4195-a1f9-ad02e2389437)
+
+![Screenshot 2024-05-16 000806](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/9a09d389-3604-4ef6-bb5e-6fdba99c2d0a)
 
 
 ### Cuttting Code
-
-
+![Screenshot 2024-05-16 000903](https://github.com/SriVignesh-G/G-Code-to-Autoleveller-codede-conversion/assets/147576510/a68616dc-27d5-4dde-955a-e6e7f2bbff7a)
 
 
 # Result
